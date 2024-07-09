@@ -1,6 +1,6 @@
 # Chat-With-Your-Favorite-PDF
 
-This is a public repository for a web application that allows you to chat with a PDF on Streamlit.
+This is a public repository for a web application that allows you to chat with a PDF on Streamlit, with ~150 lines of Python code.
 
 This PDF Chat Application is a tool that allows users to interact with their PDF documents using natural language queries. By leveraging Large Language Models (LLMs), the application processes uploaded PDFs and enables users to ask questions about the content, and get responses based on the document's information. This project combines the power of ML with a chat interface, making it easier to extract insights from PDF documents.
 
@@ -172,6 +172,7 @@ When the "Process" button is clicked, the application:
 - A spinner is shown during document processing to indicate activity.
 ***
 I hope this that projects helps you understand the power of LLMs, ML, and Streamlit as well!
+Since I was using Hugging Face API from their HuggingFaceHub, the size of the LLM was limited (Max 10GB, I believe, thus, I went with google/flan-t5-large) and amount of API calls is also limited. The good things is - this whole project is __100% free__. Most likely, you will get better results with OpenAI models or Anthropic models, but again, my option is __100% free__.
 
 Follow me on:
 - [LinkedIn](https://www.linkedin.com/in/iliakarelin/)
