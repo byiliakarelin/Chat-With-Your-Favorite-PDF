@@ -4,7 +4,7 @@ This is a public repository for a web application that allows you to chat with a
 
 This PDF Chat Application is a tool that allows users to interact with their PDF documents using natural language queries. By leveraging Large Language Models (LLMs), the application processes uploaded PDFs and enables users to ask questions about the content, and get responses based on the document's information. This project combines the power of ML with a chat interface, making it easier to extract insights from PDF documents.
 
-In my case, I love Super Data Science podcast that is hosted by John Krohn. On the picture below, you can see that I asked who the host was.
+In my case, I love Super Data Science podcast that is hosted by John Krohn. On the picture below, you can see that I asked who the guest was on episode 791.
 <img width="1179" alt="Screen Shot 2024-07-07 at 5 23 15 PM" src="https://github.com/byiliakarelin/Chat-With-Your-Favorite-PDF/assets/132295797/2180a1e6-be0f-4c85-8741-967201c2933e">
 ## **Breakdown of how the code works:**
 ***
