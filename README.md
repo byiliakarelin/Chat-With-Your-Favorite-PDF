@@ -173,6 +173,11 @@ When the "Process" button is clicked, the application:
 
 
 - A spinner is shown during document processing to indicate activity.
+
+**End product looks like this:**
+
+https://github.com/user-attachments/assets/63d7f8b7-d041-4e9c-a69c-54dd3fed3e31
+
 ***
 I hope this that projects helps you understand the power of LLMs, ML, and Streamlit as well!
 Since I was using Hugging Face API from their HuggingFaceHub, the size of the LLM was limited (Max 10GB, I believe, thus, I went with google/flan-t5-large) and amount of API calls is also limited. The good things is - this whole project is __100% free__. Most likely, you will get better results with OpenAI models or Anthropic models, but again, my option is __100% free__.
