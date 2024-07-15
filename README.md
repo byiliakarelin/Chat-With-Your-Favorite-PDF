@@ -153,6 +153,9 @@ with st.sidebar:
         else:
             st.warning("Please upload at least one PDF file.")
 ```
+
+https://github.com/user-attachments/assets/7de0fdf5-9479-4f19-8558-1e084c421ea6
+
 The chat history is displayed in the main area of the application:
 
 - The ```chat_container``` is a Streamlit container that holds the chat messages.
